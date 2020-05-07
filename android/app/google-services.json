@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "371903810408",
+    "firebase_url": "https://ungdairy-69610.firebaseio.com",
+    "project_id": "ungdairy-69610",
+    "storage_bucket": "ungdairy-69610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371903810408:android:3fa9714bf107a7ebf4a4dd",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.ungdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371903810408-8pgoqfmisve1r5s38l0ui5ict89f6krj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wc28QskXj83imvE9DrADX4BDTZtN9KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371903810408-8pgoqfmisve1r5s38l0ui5ict89f6krj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
